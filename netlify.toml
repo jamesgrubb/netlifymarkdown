@@ -1,4 +1,4 @@
 [build]
-base = "myapp/"
-publish = "myapp/build/"
-command = "yarn build"
+base = "gatsby-starter-hello-world/"
+publish = "gatsby-starter-hello-world/build/"
+command = "npm run build"
